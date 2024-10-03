@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+hr{
+    width: 1690px;
+    margin-left: 145px;
+    position: relative; bottom: 60px;
+}
+h1{
+    margin-left: 150px;
+    font-size: 50px;
+    margin-top: 10px;
+    font-family: "Merriweather", serif;
+}
+a{
+    text-decoration: none;
+    color: black;
+    margin-left: 60px;
+    position: relative; left: 700px; bottom: 40px;
+    font-size: 30px;
+    font-family: "Fredoka", sans-serif;
+}
+h2{
+    position: relative; left: 1750px; bottom: 80px;
+    font-size: 30px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 60px;
+    text-transform: uppercase;
+}
+h3{
+    font-family: "Roboto", sans-serif;
+    font-size: 60px;
+    margin-left: 150px;
+   
+    
+}
+p{
+    font-family: "Roboto", sans-serif;
+    margin-left:180px ;
+    font-size: 20px;
+}
+#ic1{
+    margin-left: 155px;
+ position: relative; top: 20px;
+}
+.hr{
+    margin-top: 70px;
+    width: 450px;
+}
+.p{
+   position: relative; right: 30px;
+}
+button{
+    margin-left: 150px;
+   position: relative; bottom: 520px;
+    padding: 10px 20px 10px 20px;
+    border-radius: 25px;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+}
+img{
+    width: 450px;
+    height: 580px;
+    position: relative; bottom: 530px; left: 460px;
+    border-radius: 50px;
+}
+.pic{
+    height: 170px;
+    width: 500px;
+    position: relative; 
+   margin-left: 100px;
+   margin-bottom: 410px;
+}
+h4{
+    font-family: "Roboto", sans-serif;
+    position: relative; bottom: 940px;
+    left: 1310px;
+    font-size: 30px;
+}
+.p1{
+    position: relative; bottom: 930px; left: 1130px;
+}
+h5{
+    font-family: "Roboto", sans-serif;
+    position: relative; bottom: 895px;
+    left: 1310px;
+    font-size: 30px;
+}
+.p2{
+    position: relative; bottom: 895px; left: 1130px;
+}
+.pic1{
+    height: 170px;
+    width: 500px;
+    position: relative;  bottom: 910px;
+   margin-left: 840px;
+  
+}
+#a1{
+    position: relative; bottom: 1430px; left: 1120px;
+    font-size: 40px;
+    color: white;
+    font-weight: 2px;
+   background-color: rgb(203, 203, 203);
+   border-radius: 30px;
+   padding: 5px 7px;
+}
+#a2{
+    position: relative; bottom: 1145px; left: 1660px;
+    font-size: 40px;
+    color: white;
+    font-weight: 2px;
+   background-color: rgb(203, 203, 203);
+   border-radius: 30px;
+   padding: 5px 7px;
+}
+#a3{
+
+
+position: relative; bottom: 1452px; left: 1600px;
+font-size: 40px;
+color: white;
+font-weight: 2px;
+background-color: rgb(203, 203, 203);
+border-radius: 30px;
+padding: 5px 7px;
+}
